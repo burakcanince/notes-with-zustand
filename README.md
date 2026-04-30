@@ -1,3 +1,5 @@
+<img src="preview.png" alt="Preview" />
+
 # Notes App with Zustand
 
 A simple notes app with Zustand that allows adding, editing, and deleting notes
